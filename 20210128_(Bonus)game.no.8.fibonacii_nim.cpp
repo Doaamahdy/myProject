@@ -23,7 +23,7 @@ long double value (long double sum ,double y ,int m, long double  l)
   long double newFactorial =2;
   unsigned long long int power=0;
   unsigned long long int newPower=1;
- //unsigned long long int l=factorial(m);
+ //unsigned long long int l=factorial(m); Testing github
  while (m<=100 && l<=newFactorial && newPower>=power)
 
 {
